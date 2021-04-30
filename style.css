@@ -1,0 +1,86 @@
+html{
+    background-color:gray;
+  }
+  .body {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .header {
+    margin-bottom: 15px;
+    display: flex;
+    flex-flow: row wrap;
+    background-color:#8A75F0;
+    padding: 1%;
+  }
+  
+  .wrapper {
+    width: 20%;
+    flex: .7;
+    background-color:lightcoral;
+    margin-right: 15px;
+    margin-bottom: 1000px;
+  }
+  
+  .second-wrapper {
+    width:80%;
+    flex-wrap: wrap;
+    padding:10px;
+    flex:1;
+    background-color:skyblue;
+    margin-bottom:200px;
+  }
+  
+  img {
+    height:200px;
+    margin-left:50px;
+    width:200px;
+  } 
+  
+  p {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color:white;
+    text-align:left;
+  }
+
+  h4{
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color:white;
+    text-align: center; 
+  }
+  
+  ul{
+    font-size:1.6rem;
+    line-height:1.5;
+    color:white;
+  }
+  
+  h1 {
+    font-family: 'Peddana', serif;
+    color:white;
+    font-size: 4rem;
+    text-align: center;
+    flex:5;
+    text-transform:uppercase;
+  }
+  
+  h2 {
+    font-family: 'Sansita Swashed', cursive;
+    color:white;
+    font-size: 3rem;
+    text-align: left;
+  }
+  
+  h3 {
+    font-family: 'Sansita Swashed', cursive;
+    color:white;
+    font-size: 2.2rem;
+  }
+
+  main {
+    display: flex;
+  }
+  
+  
