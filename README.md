@@ -12,3 +12,7 @@ CSS was used for the overall aesthetic of the simple portfolio
                         
 # Result when the user opens the simple portfolio 
 ![](images/thumbnail.jpg)
+# Result when the user zooms in 
+![](images/zoomIn.jpg)
+# Result when the user zooms out
+![](images/zoomOut.jpg)
