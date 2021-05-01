@@ -11,4 +11,4 @@ HTML was used for the backbone of the simple portfolio
 CSS was used for the overall aesthetic of the simple portfolio
                         
 # Result when the user opens the simple portfolio 
-![](images/)
+![](images/thumbnail.jpg)
