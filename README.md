@@ -2,12 +2,13 @@
 
 # About
 
-This project is a simple portfolio where it showcases my resume and interests
+This is a simple portfolio designed for me to practice my HTML and CSS skills
+                         
+# Documentation
 
-# Documenation 
+HTML was used for the backbone of the simple portfolio
 
-HTML and CSS is used for this project
-
-HTML is used for the body of the website
-
-Flexbox CSS is used for the aesthetic of the website
+CSS was used for the overall aesthetic of the simple portfolio
+                        
+# Result when the user opens the simple portfolio 
+![]()
